@@ -1,0 +1,9 @@
+Code or Value,Value Description,Count,Cumulative,Skip to Item
+1,Less than 9th grade,373,373,
+2,9-11th grade (Includes 12th grade with no diploma),666,1039,
+3,High school graduate/GED or equivalent,1749,2788,
+4,Some college or AA degree,2370,5158,
+5,College graduate or above,2625,7783,
+7,Refused,0,7783,
+9,Don't know,11,7794,
+.,Missing,4139,11933,

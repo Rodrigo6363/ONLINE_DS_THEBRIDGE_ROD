@@ -1,0 +1,10 @@
+Code or Value,Value Description,Count,Cumulative,Skip to Item
+1,Less than 1 year,101,101,
+2,1 to 4 years,260,361,
+3,5 to 9 years,225,586,
+4,10 to 14 years,160,746,
+5,15 to 19 years,158,904,
+6,20 years or more,912,1816,
+77,Refused,13,1829,
+99,Don't know,46,1875,
+.,Missing,10058,11933,
